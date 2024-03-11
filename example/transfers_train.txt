@@ -1,8 +1,8 @@
-Please transfer 100 dollars from account <B-ACCOUNT>1234567890</B-ACCOUNT> to account <B-ACCOUNT>0987654321</B-ACCOUNT> on <B-DATE>March 1st</B-DATE>.
-I need to send <B-AMOUNT>50</B-AMOUNT> dollars to <B-ACCOUNT>John Doe</B-ACCOUNT> on <B-DATE>April 15th</B-DATE>.
-Transfer <B-AMOUNT>200</B-AMOUNT> dollars from account <B-ACCOUNT>9876543210</B-ACCOUNT> to account <B-ACCOUNT>555666777</B-ACCOUNT> on <B-DATE>May 20th</B-DATE>.
-I want to transfer <B-AMOUNT>30</B-AMOUNT> dollars to <B-ACCOUNT>Jane Smith</B-ACCOUNT> on <B-DATE>June 10th</B-DATE>.
-Please help me send <B-AMOUNT>75</B-AMOUNT> dollars from <B-ACCOUNT>888999000</B-ACCOUNT> to <B-ACCOUNT>Mary Johnson</B-ACCOUNT> on <B-DATE>July 5th</B-DATE>.
-I'm transferring <B-AMOUNT>10</B-AMOUNT> dollars to <B-ACCOUNT>Sam Brown</B-ACCOUNT> on <B-DATE>August 25th</B-DATE>.
-Send <B-AMOUNT>500</B-AMOUNT> dollars from account <B-ACCOUNT>444333222</B-ACCOUNT> to <B-ACCOUNT>Jack Wilson</B-ACCOUNT> on <B-DATE>September 15th</B-DATE>.
-Please transfer <B-AMOUNT>150</B-AMOUNT> dollars from <B-ACCOUNT>111222333</B-ACCOUNT> to <B-ACCOUNT>Lisa Anderson</B-ACCOUNT> on <B-DATE>October 30th</B-DATE>.
+Please transfer 100 dollars from account  1234567890  to account <START:account> 0987654321 <END>  on <START:date> March 1st <END> .
+I need to send <START:amount> 50 <END>  dollars to <START:account> John Doe <END>  on <START:date> April 15th <END> .
+Transfer <START:amount> 200 <END>  dollars from account  9876543210   to account <START:account> 555666777 <END>  on <START:date> May 20th <END> .
+I want to transfer <START:amount> 30 <END>  dollars to <START:account> Jane Smith <END>  on <START:date> June 10th <END> .
+Please help me send <START:amount> 75 <END>  dollars from 888999000   to <START:account> Mary Johnson <END>  on <START:date> July 5th <END> .
+I'm transferring <START:amount> 10 <END>  dollars to <START:account> Sam Brown <END>  on <START:date> August 25th <END> .
+Send <START:amount> 500 <END>  dollars from account  444333222  to <START:account> Jack Wilson <END>  on <START:date> September 15th <END> .
+Please transfer <START:amount> 150 <END>  dollars from  111222333  to <START:account> Lisa Anderson <END>  on <START:date> October 30th <END> .
