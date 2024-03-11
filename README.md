@@ -25,3 +25,6 @@ model.serialize(modelOut);
 }
 
 ```
+
+# OpenNLP Model
+https://opennlp.sourceforge.net/models-1.5/
